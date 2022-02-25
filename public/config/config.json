@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbf78c87C35350eCa633f764067Ad048278a73332",
+  "SCAN_LINK": "https://polygonscan.com/token/0xbf78c87C35350eCa633f764067Ad048278a73332",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Adorable Bears",
+  "SYMBOL": "Adorable Bears",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 60000000000000000000,
+  "DISPLAY_COST": 60,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/adorable-bears-v2-1pp",
+  "SHOW_BACKGROUND": true
+}
